@@ -1,10 +1,5 @@
-### Hello! Eu sou a Emily ✨
+## [![Typing SVG](https://readme-typing-svg.demolab.com?duration=3000&size=22&pause=1000&color=8A2BE2&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Hello!+Eu+sou+a+Emily.)](https://git.io/typing-svg)
 
-
-- 🌱 Estudando: Node.js
-- 😄 Pronouns: ela/dela
-
-<br>
 <div align = "center">
   
   <a href="https://github.com/EmilyCavalcanti">
